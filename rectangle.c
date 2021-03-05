@@ -16,7 +16,7 @@
 //
 //Author information
 //  Author name: Minh Tran
-//  Author email: mtran2019s@fullerton.edu
+//  Author email: 
 //
 //Program information
 //  Program name: rectangle.c
