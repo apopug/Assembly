@@ -1,3 +1,3 @@
-# Assembly
+# CPSC-240-X86-Assembly-Programming-Assignment
 
-Assignment for CSUF Assembly by Holliday
+CSUF with Instructor Floyd Holliday
